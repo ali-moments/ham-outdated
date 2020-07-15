@@ -54,9 +54,6 @@ pip3 install -r requirements.txt
 python3 ham-master.py
 ```
 
-## ScreenShot
-![HAMmaster](http://uupload.ir/files/et6s_hammaster.png)
-
 ## Video Tutorial
 Youtube : https://www.youtube.com/channel/UCiWO3YdDV_rj4FiYlkNDkqA
 
