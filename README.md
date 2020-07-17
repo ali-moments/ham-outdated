@@ -43,17 +43,22 @@ a simple Information Gathering Tool Wrote With Python.
 - Kali Linux 2020.1
 - Windows 10
 - Ubuntu 19.10
+- Ubuntu 20.04
 - Android 6
 
 
 ## Installing
 ```bash
+sudo apt install git
 git clone https://github.com/realham/ham-master.git
 cd ham-master
 sudo chmod +x install.sh
 sudo ./install.sh
 python3 ham-master.py
 ```
+## ScreenShot
+![ScreenShot](https://)
+
 
 ## Video Tutorial
 Youtube : https://www.youtube.com/channel/UCiWO3YdDV_rj4FiYlkNDkqA
