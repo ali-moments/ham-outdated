@@ -22,7 +22,7 @@ else
 fi
 clear
 echo "installing python modules..."
-pip3 install -r requirements.txt
+sudo pip3 install -r requirements.txt
 clear
 echo "Instalation Completed!"
 sleep 1
