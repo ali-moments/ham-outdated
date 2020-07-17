@@ -57,7 +57,7 @@ sudo ./install.sh
 python3 ham-master.py
 ```
 ## ScreenShot
-![ScreenShot](https://)
+![ScreenShot](https://raw.githubusercontent.com/ali-moments/ham-master/master/Screenshot%20of%20HAM-Master.png)
 
 
 ## Video Tutorial
