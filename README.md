@@ -47,7 +47,7 @@ a simple Information Gathering Tool Wrote With Python.
 
 
 ## Installing
-```bash#
+```bash
 git clone https://github.com/realham/ham-master.git
 cd ham-master
 sudo chmod +x install.sh
