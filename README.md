@@ -47,10 +47,11 @@ a simple Information Gathering Tool Wrote With Python.
 
 
 ## Installing
-```bash$
+```bash#
 git clone https://github.com/realham/ham-master.git
 cd ham-master
-pip3 install -r requirements.txt
+sudo chmod +x install.sh
+sudo ./install.sh
 python3 ham-master.py
 ```
 
