@@ -7,7 +7,9 @@ a simple Information Gathering Tool Wrote With Python.
 
 
 ## Table of Contents
-[Installing][Installing]
+* [Installing](https://github.com/ali-moments/ham-master/blob/master/README.md#installing)
+* [Tested Operation Systems](https://github.com/ali-moments/ham-master/blob/master/README.md#description)
+
 
 ## Installing
 
