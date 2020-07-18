@@ -8,8 +8,11 @@ a simple Information Gathering Tool Wrote With Python.
 
 ## Table of Contents
 * [Installing](https://github.com/ali-moments/ham-master/blob/master/README.md#installing)
-* [Tested Operation Systems](https://github.com/ali-moments/ham-master/blob/master/README.md#description)
-
+* [Tested Operation Systems](https://github.com/ali-moments/ham-master/blob/master/README.md#tested-operation-systems)
+* [ScreenShot](https://github.com/ali-moments/ham-master/blob/master/README.md#screenshot)
+* [Tutorial](https://github.com/ali-moments/ham-master/blob/master/README.md#tutorial)
+* [Credits](https://github.com/ali-moments/ham-master/blob/master/README.md#credits)
+* [Contact us](https://github.com/ali-moments/ham-master/blob/master/README.md#contact-us)
 
 ## Installing
 
