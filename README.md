@@ -26,7 +26,7 @@ python3 ham-master.py
 ```
 
 
-## Tested Operating Systems 
+## Tested Operation Systems 
 - Kali Linux 2020.1
 - Windows 10
 - Ubuntu 19.10
