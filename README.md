@@ -15,14 +15,23 @@ a simple Information Gathering Tool Wrote With Python.
 * [Contact us](https://github.com/ali-moments/ham-master/blob/master/README.md#contact-us)
 
 ## Installing
-
+First install `git` using your package manager, for example:
 ```bash
-sudo apt install git
+pacman -S git
+yay -S git
+yum install git
+dnf install git
+apt install git
+pkg install git
+```
+after that, clone this repository and run `install.sh` 
+you can run HAM-master using `python` after instalation.
+```bash
 git clone https://github.com/realham/ham-master.git
 cd ham-master
 sudo chmod +x install.sh
 sudo ./install.sh
-python3 ham-master.py
+python ham-master.py
 ```
 
 
