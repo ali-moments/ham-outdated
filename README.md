@@ -45,9 +45,9 @@ Youtube : https://www.youtube.com/channel/UCiWO3YdDV_rj4FiYlkNDkqA
 
 
 ## Credits
--    sedHAMIDreza - Web Application Pentester
--    AliAAA - Project Leader
--    Mohammad_mahdi8 - HAM team Programmer
+-    sedHAMIDreza - CEO
+-    AliAAA - CTO
+-    Mohammad_mahdi8 - Web Application Pentester
 
 
 
