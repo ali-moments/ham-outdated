@@ -28,10 +28,12 @@ python3 ham-master.py
 
 ## Tested Operation Systems 
 - Kali Linux 2020.1
+- manjaro 21
 - Windows 10
 - Ubuntu 19.10
 - Ubuntu 20.04
 - Android 6
+- android 10
 
 
 ## ScreenShot
