@@ -50,17 +50,9 @@ python ham-master.py
 
 
 ## Tutorial
-Youtube : https://www.youtube.com/channel/UCiWO3YdDV_rj4FiYlkNDkqA
 
 
 ## Credits
--    sedHAMIDreza - CEO
--    AliAAA - CTO
--    Mohammad_mahdi8 - Web Application Pentester
-
-
-
-### Contact us
-- HAM Weblog : https://realham.blogsky.com
-- Telegram Channel : https://t.me/realham_tel
-- Instagram Page : https://instagram.com/realham_insta
+-    sedHAMIDreza 
+-    ali-momento
+-    Mohammad_mahdi8 
