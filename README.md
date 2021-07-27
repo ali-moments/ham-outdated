@@ -1,9 +1,10 @@
 
-# HAM-master
+# HAM-master [Out Dated]
 
 ## Description
 
-a simple Information Gathering Tool Wrote With Python.
+a simple Information Gathering Tool Wrote With Python. 
+no longer support and not working due to api changes in website.
 
 
 ## Table of Contents
